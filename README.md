@@ -79,14 +79,6 @@
  
 ---
  
-### GitHub stats
- 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JavierMontillaArias&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Javier's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierMontillaArias&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
-</div>
----
- 
 ### Connect
  
 <p align="center">
