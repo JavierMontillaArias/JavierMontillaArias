@@ -74,11 +74,10 @@
 
 ### Featured projects
 
-- **[EscapeManager](https://github.com/JavierMontillaArias/EscapeManager)** — Final Degree Project (TFG). Native Android app (Kotlin, MVVM) + REST API (FastAPI) to run escape-room operations: bookings with automatic email + unique QR code, real-time QR scanning (CameraX + ML Kit) to start games, live game control (timer, hints) and a statistics dashboard. JWT auth with automatic token refresh.
 - **[spring-boot-products-api](https://github.com/JavierMontillaArias/spring-boot-products-api)** — REST API built with Spring Boot, JPA/Hibernate and MySQL. Full CRUD with Bean Validation, externalized error messages and a clean layered architecture (controller → service → repository).
-- **[FastApi_Clientes_Planes](https://github.com/JavierMontillaArias/FastApi_Clientes_Planes)** — REST API built with FastAPI (Python) to manage clients and subscription plans.
+- **[EscapeManager](https://github.com/JavierMontillaArias/EscapeManager)** — Final Degree Project (TFG). Native Android app (Kotlin, MVVM) + REST API (FastAPI) to run escape-room operations: bookings with automatic email + unique QR code, real-time QR scanning (CameraX + ML Kit) to start games, live game control (timer, hints) and a statistics dashboard. JWT auth with automatic token refresh.
+- **[FastAPI_Sistema_Reservas](https://github.com/JavierMontillaArias/FastAPI_Sistema_Reservas)** — Restaurant reservation system built with FastAPI and SQLite. Layered architecture with routers, services and custom exceptions, plus aggregated statistics endpoints (occupancy, frequent customers, popular tables).
 - **[Portfolio](https://github.com/JavierMontillaArias/PortFolio)** — My personal portfolio website (HTML / CSS / JavaScript).
-- **[Machine-Learning](https://github.com/JavierMontillaArias/Machine-Learning)** — Notebooks from my Machine Learning & Data Science training (Python, Jupyter).
 
 > I also built a full-stack web platform (Spring Boot + React) during a 4-month software-development internship at Hubiqus — private repository.
 
